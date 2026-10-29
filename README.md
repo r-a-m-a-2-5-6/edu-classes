@@ -32,7 +32,7 @@ the application through Docker Compose.
 ## 1. Clone the repository
 
 ``` bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/r-a-m-a-2-5-6/edu-classes.git
 cd <YOUR_REPOSITORY_DIRECTORY>
 ```
 
